@@ -1,0 +1,7 @@
+
+Group-Model uchun zametkalar:
+1)room qoshish
+2)time qoshish
+
+Student-Model uchun :
+1)
